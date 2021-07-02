@@ -1,0 +1,6 @@
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.csprojAssemblyReference.cache
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.AssemblyInfo.cs
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nerif\source\repos\api-catalogo-jogos\api-catalogo-jogos\obj\Debug\netcoreapp3.1\api-catalogo-jogos.MvcApplicationPartsAssemblyInfo.cs
